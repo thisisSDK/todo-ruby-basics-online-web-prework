@@ -2,8 +2,8 @@ def division(num1, num2)
  total = num1 / num2
 end
 
-def assign_variable
-  name = "Hello Bob!"
+def assign_variable(name)
+  #{name} = "Hello Bob!"
 end
 
 
