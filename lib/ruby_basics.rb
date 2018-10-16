@@ -3,7 +3,7 @@ def division(num1, num2)
 end
 
 def assign_variable
-  puts "Hello Bob!"
+  name = "Hello Bob!"
 end
 
 
