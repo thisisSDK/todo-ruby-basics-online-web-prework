@@ -14,7 +14,7 @@ def greeting(name, language)
   puts "Hello, #{name}. We heard you are a great #{language} programmer."
 end
 
-def return_a_value
+def return_a_value(b)
   b = "Nice!"
 end
 
