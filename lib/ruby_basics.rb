@@ -6,8 +6,8 @@ def assign_variable(name)
   name = "Bob"
 end
 assign_variable("Bob")
-def argue
-  puts "Hello, I'm right and you are wrong!!"
+def argue(right)
+  right = "Hello, I'm right and you are wrong!!"
 end
 
 def greeting(name, language)
