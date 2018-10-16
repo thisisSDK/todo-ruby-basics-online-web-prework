@@ -2,11 +2,10 @@ def division(num1, num2)
  total = num1 / num2
 end
 
-def assign_variable(name)
-  puts "Hello #{name}!"
+def assign_variable
+  puts "Hello Bob!"
 end
 
-assign_variable("Chewy")
 
 
 def argue
