@@ -26,4 +26,6 @@ def pizza_party (pizza_party = "cheese")
     puts "#{pizza_party}"
 end
  
-pizza_party("pepperoni")
+def pizza_party("pepperoni")
+  puts "#{pizza_party"
+end
