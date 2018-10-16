@@ -10,8 +10,8 @@ def argue(right)
   right = "I'm right and you are wrong!"
 end
 
-def greeting(name, language)
-  puts "Hello, #{name}. We heard you are a great #{language} programmer."
+def greeting(greeting, name)
+  puts "#{greeting}. We heard you are a great #{language} programmer."
 end
 
 def return_a_value
