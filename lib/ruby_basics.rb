@@ -3,10 +3,8 @@ def division(num1, num2)
 end
 
 def assign_variable(name)
-  #{name} = "Bob!"
+  name = "Bob!"
 end
-
-
 
 def argue
   puts "Hello, I'm right and you are wrong!!"
