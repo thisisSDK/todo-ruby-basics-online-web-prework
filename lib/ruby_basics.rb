@@ -7,7 +7,7 @@ def assign_variable(name)
 end
 assign_variable("Bob")
 def argue(right)
-  right = "Hello, I'm right and you are wrong!!"
+  right = "I'm right and you are wrong!!"
 end
 
 def greeting(name, language)
