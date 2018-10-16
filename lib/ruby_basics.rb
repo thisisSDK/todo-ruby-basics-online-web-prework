@@ -11,7 +11,7 @@ def argue(right)
 end
 
 def greeting(greeting, name)
-  puts "#{greeting}. We heard you are a great #{language} programmer."
+  puts "#{greeting}. We heard you are a great programmer, #{name}."
 end
 
 def return_a_value
